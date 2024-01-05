@@ -4,8 +4,6 @@ from product import Product
 
 from json_db import JsonDB
 
-from indb import generate_products
-
 
 app = FastAPI()
 
